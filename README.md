@@ -45,3 +45,11 @@ there are 4 more free seats
 - invite owner(s) of raprep
 - learn software for printing
 - learn software for modeling objects
+
+
+### task invite owner(s) of raprep
+
+- i have sent info/invitation to [RepRap forums](http://forums.reprap.org/list.php?221)
+- i have sent invitation to Josef Prusa
+- i have sent invitation to Tom Petrzela
+
