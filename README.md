@@ -12,9 +12,9 @@ Hello everyone, we are planning reprap session in Prague.
 - vinc
 - lexa
 - jakub vysoky and his father
+- elmariofredo
 
-
-there are 4 more free seats
+there are 3 more free seats
 
 ## Idea
 
@@ -43,6 +43,20 @@ there are 4 more free seats
 	- Prusa will bring some
 - sample of PLA
 
+## Learning
+
+- elmariofredo will study printing materials
+- jakub will study extruder
+- vinc will study software
+
+## Buying
+
+- elmariofredo will buy rods, nuts, etc.
+- lexa will buy arduino mega 2560
+- phokz will buy RAPMS and motor drivers from [XYZ printers](http://xyzprinters.com/)
+
+
+- All buyers should be assigned before 2012-03-06
 
 ## Tasks
 
@@ -51,7 +65,7 @@ there are 4 more free seats
 - invite owner(s) of raprep
 - learn software for printing
 - learn software for modeling objects
-
+- study printing materials
 
 ### task invite owner(s) of raprep
 
@@ -61,3 +75,6 @@ there are 4 more free seats
 	- Josef will try to attend
 - i have sent invitation to Tom Petrzela
 
+## Other ideas
+
+- elmariofredo will bring tripod and camera to take some shots
