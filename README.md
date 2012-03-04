@@ -46,7 +46,8 @@ there are 3 more free seats
 ## Learning
 
 - elmariofredo will study printing materials
-- jakub will study extruder
+- @kvbik will study extruder
+	- i hope http://reprap.org/wiki/Wade%27s_Geared_Extruder will be enough
 - vinc will study software
 
 ## Buying
