@@ -11,7 +11,7 @@ Hello everyone, we are planning reprap session in Prague.
 - netmilk and phokz from virtualmaster
 - vinc
 - lexa
-- jakub vysoky and his father
+- @kvbik (jakub vysoky) and his father @JerryFox
 - elmariofredo
 
 there are 3 more free seats
@@ -26,7 +26,7 @@ there are 3 more free seats
 ## Shopping list
 
 - 4 or 5 stepper motors (best source needed)
-	- 5
+	- @kvbik will buy 5 of them from http://www.microcon.cz/prodej.asp `SX17-0905`
 	- XYZ printers from NL
 - printed plastic parts (ebay? Prusa?)
  	- Prusa will print them for nice price ;-)
