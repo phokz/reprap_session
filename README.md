@@ -21,7 +21,7 @@ there are 3 more free seats
 - meet people
 - share knowledge and ideas
 - build most of one machine
-- we would like to invite at least one current owner of raprep
+- we would like to invite at least one current owner of reprap
 
 ## Shopping list
 
@@ -62,12 +62,12 @@ there are 3 more free seats
 
 - finish shopping list
 - assign ordering of parts to participants
-- invite owner(s) of raprep
+- invite owner(s) of reprap
 - learn software for printing
 - learn software for modeling objects
 - study printing materials
 
-### task invite owner(s) of raprep
+### task invite owner(s) of reprap
 
 - i have sent info/invitation to [RepRap forums](http://forums.reprap.org/list.php?221)
 - invite all the possible guys to RepRap Czech page on Facebook
