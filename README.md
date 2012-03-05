@@ -13,8 +13,9 @@ Hello everyone, we are planning reprap session in Prague.
 - lexa
 - jakub vysoky and his father
 - elmariofredo
+- ang
 
-there are 3 more free seats
+there are 2 more free seats
 
 ## Idea
 
@@ -48,13 +49,16 @@ there are 3 more free seats
 - elmariofredo will study printing materials
 - jakub will study extruder
 - vinc will study software
+- netmilk will study firmware (program in arduino board)
+- ang will study available 3d models sources 
 
 ## Buying
 
 - elmariofredo will buy rods, nuts, etc.
 - lexa will buy arduino mega 2560
 - phokz will buy RAPMS and motor drivers from [XYZ printers](http://xyzprinters.com/)
-
+- kvbik will buy 5 NEMA17 stepper motors
+- ang will buy hotbed
 
 - All buyers should be assigned before 2012-03-06
 
