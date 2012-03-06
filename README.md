@@ -57,6 +57,7 @@ there are 2 more free seats
 - elmariofredo will buy rods, nuts, etc.
 - lexa will buy arduino mega 2560
 - phokz will buy RAPMS and motor drivers from [XYZ printers](http://xyzprinters.com/)
+	- order completed and paid on 2011-03-06, I hope they'll send it in time
 - kvbik will buy 5 NEMA17 stepper motors
 - ang will buy hotbed
 
