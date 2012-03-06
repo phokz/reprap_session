@@ -24,6 +24,11 @@ there are 2 more free seats
 - build most of one machine
 - we would like to invite at least one current owner of reprap
 
+## Basic links
+- [RapRep.org](http://raprep.org/)
+- [Josef Prusa](http://josefprusa.cz/)
+- [Článek na ROOT.cz](http://www.root.cz/clanky/3d-tiskarna-reprap-vytisknete-si-treba-bryle/)
+
 ## Shopping list
 
 - 4 or 5 stepper motors (best source needed)
@@ -36,7 +41,7 @@ there are 2 more free seats
 - 4 or 5 motor drivers  Pololu1182 (snail instruments) [phokz will buy 4]
 	- oh god no!! again from XYZ, 3700Kč for one is rip off
 - Arduino Mega 2560 (multiple vendors)
- 
+- fasteners and rods [fabory](http://www.fabory.cz/) [festo](http://www.festo.com/)
 
 ## Printing material
 
@@ -60,6 +65,25 @@ there are 2 more free seats
 	- order completed and paid on 2011-03-06, I hope they'll send it in time
 - kvbik will buy 5 NEMA17 stepper motors
 - ang will buy hotbed
+- netmilk will buy extruder parts
+- netmilk will buy belts
+	x T2.5 timing belt 920mm
+	x T2.5 timing belt 900mm
+	x T2.5 timing belt 840mm
+
+
+# Misc tools and materials to bring
+
+- screwdriver (phokz)
+- makita (netmilk)
+- drill bits (phokz)
+- soldering iron (phokz)
+- common keys and screwdriver bits (phokz)
+- knife (phokz)
+- gluegun (phokz)
+- tie wraps (phokz)
+- ATX power supply (phokz)
+- little hammer and sharp nail (phokz)
 
 - All buyers should be assigned before 2012-03-06
 
