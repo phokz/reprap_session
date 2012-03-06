@@ -1,21 +1,31 @@
-## Prague REPRAP session
+## Prague REPRAP session Volume 1
 
 Hello everyone, we are planning reprap session in Prague.
+We expect there will be follow up session on April.
 
-## Where - probably at HUB Praha, Drtinova 10
+## Where - HUB Praha, Drtinova 10
 
-## When - 2011-03-17 @9:30
+Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
+
+## When 
+
+- 2011-03-17 
+- main members @9:30
+- 9:30-10:00:  coffee, donuts, meeting people
+- 10:00 - 11:00: start construction (frame)
+- 11:00 - 12:00: lightning talks
+- 12:00 - unknown: construction
 
 ## Who
 
 - netmilk and phokz from virtualmaster
+- (hopefully) Josef Prusa
 - vinc
 - lexa
 - jakub vysoky and his father
 - elmariofredo
 - ang
-
-there are 2 more free seats
+- carlos
 
 ## Idea
 
