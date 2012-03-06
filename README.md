@@ -35,7 +35,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - we would like to invite at least one current owner of reprap
 
 ## Basic links
-- [RapRep.org](http://raprep.org/)
+- [RepRap.org](http://reprap.org/)
 - [Josef Prusa](http://josefprusa.cz/)
 - [Článek na ROOT.cz](http://www.root.cz/clanky/3d-tiskarna-reprap-vytisknete-si-treba-bryle/)
 
