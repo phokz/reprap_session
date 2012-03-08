@@ -42,7 +42,6 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 ## Shopping list
 
 - 4 or 5 stepper motors (best source needed)
-	- @kvbik will buy 5 of them from http://www.microcon.cz/prodej.asp `SX17-0905`
 	- XYZ printers from NL
 - printed plastic parts (ebay? Prusa?)
  	- Prusa will print them for nice price ;-)
@@ -75,6 +74,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - phokz will buy RAPMS and motor drivers from [XYZ printers](http://xyzprinters.com/)
 	- order completed and paid on 2011-03-06, I hope they'll send it in time
 - kvbik will buy 5 NEMA17 stepper motors
+	- 5 of them from http://www.microcon.cz/prodej.asp `SX17-0905`
 - ang will buy hotbed
 - netmilk will buy extruder parts
 - netmilk will buy belts
