@@ -9,9 +9,9 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 
 ## When 
 
-- 2011-03-17 
+- 2012-03-17 
 - main members @9:30
-- 9:30-10:00:  coffee, donuts, meeting people
+-  9:30 - 10:00: coffee, donuts, meeting people
 - 10:00 - 11:00: start construction (frame)
 - 11:00 - 12:00: lightning talks
 - 12:00 - unknown: construction
@@ -72,10 +72,10 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - elmariofredo will buy rods, nuts, etc.
 - lexa will buy arduino mega 2560
 - phokz will buy RAPMS and motor drivers from [XYZ printers](http://xyzprinters.com/)
-	- order completed and paid on 2011-03-06, I hope they'll send it in time
+	- order completed and paid on 2012-03-06, I hope they'll send it in time
 - kvbik will buy 5 NEMA17 stepper motors
 	- 5 of them from http://www.microcon.cz/prodej.asp `SX17-0905`
-	- order completed (thx to JerryFox and his social hacking skills), steppers should be on Tue 13.3.
+	- order completed (thx to JerryFox and his social hacking skills), steppers should be on Tue 2012-03-13
 - ang will buy hotbed
 - netmilk will buy extruder parts
 - netmilk will buy belts
