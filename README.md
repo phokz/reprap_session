@@ -75,7 +75,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 	- order completed and paid on 2011-03-06, I hope they'll send it in time
 - kvbik will buy 5 NEMA17 stepper motors
 	- 5 of them from http://www.microcon.cz/prodej.asp `SX17-0905`
-	- not sure how to order, but have sent email to the distributor
+	- order completed (thx to JerryFox and his social hacking skills), steppers should be on Tue 13.3.
 - ang will buy hotbed
 - netmilk will buy extruder parts
 - netmilk will buy belts
