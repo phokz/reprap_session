@@ -20,12 +20,11 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 
 - netmilk and phokz from virtualmaster
 - (hopefully) Josef Prusa
-- vinc
-- lexa
 - @kvbik (jakub vysoky) and his father @JerryFox
-- elmariofredo
+- elmariofredo + 1
 - ang
 - carlos
+- jiri drvota
 
 ## Idea
 
@@ -41,12 +40,13 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 
 ## Shopping list
 
-- 4 or 5 stepper motors (best source needed)
+- 5 stepper motors (best source needed)
 	- XYZ printers from NL
 - printed plastic parts (ebay? Prusa?)
  	- Prusa will print them for nice price ;-)
 - RAMPS board  (snail instrumets) [phokz will buy one]
 	- snail does not have them in stock, use XYZ again
+	- parcel from NL will hopefully arrive 
 - 4 or 5 motor drivers  Pololu1182 (snail instruments) [phokz will buy 4]
 	- oh god no!! again from XYZ, 3700Kč for one is rip off
 - Arduino Mega 2560 (multiple vendors)
@@ -63,19 +63,19 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - elmariofredo will study printing materials
 - @kvbik will study extruder
 	- i hope http://reprap.org/wiki/Wade%27s_Geared_Extruder will be enough
-- vinc will study software
 - netmilk will study firmware (program in arduino board)
 - ang will study available 3d models sources 
 
 ## Buying
 
 - elmariofredo will buy rods, nuts, etc.
-- lexa will buy arduino mega 2560
+- ??? will buy arduino mega 2560
 - phokz will buy RAPMS and motor drivers from [XYZ printers](http://xyzprinters.com/)
 	- order completed and paid on 2012-03-06, I hope they'll send it in time
 - kvbik will buy 5 NEMA17 stepper motors
 	- 5 of them from http://www.microcon.cz/prodej.asp `SX17-0905`
 	- order completed (thx to JerryFox and his social hacking skills), steppers should be on Tue 2012-03-13
+	- bought by kvbik price=2100CZK including tax and shipping
 - ang will buy hotbed
 - netmilk will buy extruder parts
 - netmilk will buy belts
