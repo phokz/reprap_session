@@ -25,6 +25,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - ang
 - carlos
 - jiri drvota
+- houba
 
 ## Idea
 
@@ -69,7 +70,10 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 ## Buying
 
 - elmariofredo will buy rods, nuts, etc.
-- ??? will buy arduino mega 2560
+- phokz have ordered and paid arduino mega 2560
+   - bought from [Ing. Oldrich Horacek])http://hwkitchen.com)
+   - total price with shipping  1,257.71 CZK
+   - also available at snail instrumets, but too expensive
 - phokz will buy RAPMS and motor drivers from [XYZ printers](http://xyzprinters.com/)
 	- order completed and paid on 2012-03-06, I hope they'll send it in time
 - kvbik will buy 5 NEMA17 stepper motors
