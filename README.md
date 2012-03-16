@@ -19,7 +19,8 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 ## Who
 
 - netmilk and phokz from virtualmaster
-- (hopefully) Josef Prusa
+- Josef Prusa
+  - Josef has confirmed printing of parts is in progress and he will come between 10am and 11am
 - @kvbik (jakub vysoky) and his father @JerryFox
 - elmariofredo + 1
 - ang
@@ -74,9 +75,12 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
    - kvbik will bring one as well from [pvelectronic](http://pvelectronic.inshop.cz/podle-vyrobce/sparkfun/vyvojove-nastroje/arduino-mega-2560-r3-%5BDEV-11061%5D?ItemIdx=0) - 1,190 CZK
    - bought from [Ing. Oldrich Horacek])http://hwkitchen.com)
    - total price with shipping  1,257.71 CZK
+   - will arrive tomorrow directly to HUB
    - also available at snail instrumets, but too expensive
 - phokz will buy RAPMS and motor drivers from [XYZ printers](http://xyzprinters.com/)
 	- order completed and paid on 2012-03-06, I hope they'll send it in time
+	- arrived on 2012-03-16, mostly soldered by phokz
+	- 2x female header 1x8pins needed
 - kvbik will buy 5 NEMA17 stepper motors
 	- 5 of them from http://www.microcon.cz/prodej.asp `SX17-0905`
 	- order completed (thx to JerryFox and his social hacking skills), steppers should be on Tue 2012-03-13
@@ -84,10 +88,12 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 	- steppers at home
 - ang will buy hotbed
 - netmilk will buy extruder parts
+	- unfortunately, this order from XYZ printers will not arrive in time
 - netmilk will buy belts
 	x T2.5 timing belt 920mm
 	x T2.5 timing belt 900mm
 	x T2.5 timing belt 840mm
+	- netmilk has bought some belts and pulleys from [MEGADYNE CZ s.r.o.](http://www.megadyne.cz)
 
 
 # Misc tools and materials to bring
