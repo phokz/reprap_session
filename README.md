@@ -71,6 +71,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 
 - elmariofredo will buy rods, nuts, etc.
 - phokz have ordered and paid arduino mega 2560
+   - kvbik will bring one as well from [pvelectronic](http://pvelectronic.inshop.cz/podle-vyrobce/sparkfun/vyvojove-nastroje/arduino-mega-2560-r3-%5BDEV-11061%5D?ItemIdx=0) - 1,190 CZK
    - bought from [Ing. Oldrich Horacek])http://hwkitchen.com)
    - total price with shipping  1,257.71 CZK
    - also available at snail instrumets, but too expensive
@@ -80,6 +81,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 	- 5 of them from http://www.microcon.cz/prodej.asp `SX17-0905`
 	- order completed (thx to JerryFox and his social hacking skills), steppers should be on Tue 2012-03-13
 	- bought by kvbik price=2100CZK including tax and shipping
+	- steppers at home
 - ang will buy hotbed
 - netmilk will buy extruder parts
 - netmilk will buy belts
