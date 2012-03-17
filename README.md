@@ -125,3 +125,16 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 ## Other ideas
 
 - elmariofredo will bring tripod and camera to take some shots
+
+### what parts we miss
+
+- 10 x linearni loziska lm8uu (xyz printer)
+- hlazenka tvrdochrom na hridele
+- sklo 2mm 20x20 - vicekrat
+- paska na sklo PET
+- aceton na rozpusteni ABS
+- hnaci sroub
+- termistory
+- material na printeni
+- vyriznout dreveny podpory pod heatbed
+
