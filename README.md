@@ -132,9 +132,11 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 
 - elmariofredo will bring tripod and camera to take some shots
 
-### what parts we miss
+# restults from meetup
 
-- 10 x linearni loziska lm8uu (xyz printer)
+## what parts we miss
+
+- 10 x linearni loziska na pojezd (`lm8uu` from xyz printer)
 - hlazenka tvrdochrom na hridele
 - sklo 2mm 20x20 - vicekrat
 - paska na sklo PET
@@ -143,4 +145,17 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - termistory
 - material na printeni
 - vyriznout dreveny podpory pod heatbed
+- kvalitni ATX zdroj OCZ (dobry konektory, utahne vic tiskaren)
+- pruziny
+
+## notes with prusa
+
+- vizualni navod
+
+- remenicky zajistit navrtane
+- klinovy remen s lepsim profilem pro kvalitnejsi zmenu smeru pohybu
+- upinani remenu
+
+- firmware [pocitadlo podle typu procesoru](http://calculator.josefprusa.cz/)
+- firmware [sprinter](http://reprap.org/wiki/Sprinter) - nejlepe branch experimental (na githubu)
 
