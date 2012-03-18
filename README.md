@@ -137,14 +137,27 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 ## what parts we miss
 
 - 10 x linearni loziska na pojezd (`lm8uu` from xyz printer)
+  - what about [LBBR 8-2LS](http://www.exvalos.cz/linearni-vedeni/linearni-kulickova-loziska-lbbr--lbcr-/)
+    cca 1000CZK per 10pcs
+  - could we get quality and affordable linear bearings in czech?
+    - order to delivery time from NL is 2 weeks
+  - [lm8uu here](http://www.12v.cz/diskont/LM8UU-8mm-Linearni-kulickova-loziska-Bush-Pouzdro) 950CZK per 10pcs
+  - [lm8uu on Aukro](http://aukro.cz/1x-linearni-pouzdro-vozik-lm8uu-pr-8-mm-cnc-i2207794767.html) 390CZK per 10 pcs
 - hlazenka tvrdochrom na hridele
+  - not needed for the moment, but for next machines we should use it
+  - check prices
 - sklo 2mm 20x20 - vicekrat
+  - phokz will check prices and availability at local glazier shop Valsuba Revnice and will buy 10 pcs if price < 20CZK
 - paska na sklo PET
 - aceton na rozpusteni ABS
 - hnaci sroub
+  - hobbed nut - we will get one from pepa prusa
 - termistory
+  - they should be in delayed order from XYZ
+  - phokz will be making order from GME (we need some led lights at home)
 - material na printeni
 - vyriznout dreveny podpory pod heatbed
+  - give me(phokz) a link to current template, I'll cut it from MDF (plovouci podlaha)
 - kvalitni ATX zdroj OCZ (dobry konektory, utahne vic tiskaren)
 - pruziny
 
