@@ -174,10 +174,10 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 
 ## software chain
 
--- prevod z STL do GCODE
-http://slic3r.org/
-http://reprap.org/wiki/Skeinforge
+* prevod z STL do GCODE
+  - http://slic3r.org/
+  - http://reprap.org/wiki/Skeinforge
 
--- python na posilani gcode prikazu do tiskarny
-https://github.com/kliment/Printrun
+* python na posilani gcode prikazu do tiskarny
+  - https://github.com/kliment/Printrun
 
