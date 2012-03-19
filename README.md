@@ -172,3 +172,12 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - firmware [pocitadlo podle typu procesoru](http://calculator.josefprusa.cz/)
 - firmware [sprinter](http://reprap.org/wiki/Sprinter) - nejlepe branch experimental (na githubu)
 
+## software chain
+
+-- prevod z STL do GCODE
+http://slic3r.org/
+http://reprap.org/wiki/Skeinforge
+
+-- python na posilani gcode prikazu do tiskarny
+https://github.com/kliment/Printrun
+
