@@ -155,8 +155,9 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - hnaci sroub
   - hobbed nut - we will get one from pepa prusa
 - termistory
-  - they should be in delayed order from XYZ
-  - phokz will be making order from GME (we need some led lights at home)
+  - one is in delayed order from XYZ
+  - phokz was in GME yesterday and bought some 5kOhm thermistors, but they should be 100kOhm
+  - raprep preferred thermistor is [EPCOS B57550G104J](http://cz.mouser.com/Search/ProductDetail.aspx?qs=LrU5VpCvnut67fU1nweYww%3D%3D), which is 100kOhm NTC
 - material na printeni
 - vyriznout dreveny podpory pod heatbed
   - give me(phokz) a link to current template, I'll cut it from MDF (plovouci podlaha)
