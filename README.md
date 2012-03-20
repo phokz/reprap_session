@@ -148,6 +148,8 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
   - check prices
 - sklo 2mm 20x20 - vicekrat
   - phokz will check prices and availability at local glazier shop Valsuba Revnice and will buy 10 pcs if price < 20CZK
+  - phokz: price is 59CZK/piece (material, cutting and grinding glass edges), time to delivery is about 3 days
+  - phokz have ordered 10 pcs, but others please check availability and prices at your local shop
 - paska na sklo PET
 - aceton na rozpusteni ABS
 - hnaci sroub
