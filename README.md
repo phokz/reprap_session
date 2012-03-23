@@ -137,6 +137,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 ## what parts we miss
 
 - 10 x linearni loziska na pojezd (`lm8uu` from xyz printer)
+  √ bought by elmariofredo from aurko
   - what about [LBBR 8-2LS](http://www.exvalos.cz/linearni-vedeni/linearni-kulickova-loziska-lbbr--lbcr-/)
     cca 1000CZK per 10pcs
   - could we get quality and affordable linear bearings in czech?
@@ -162,7 +163,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - vyriznout dreveny podpory pod heatbed
   - give me(phokz) a link to current template, I'll cut it from MDF (plovouci podlaha)
 - kvalitni ATX zdroj OCZ (dobry konektory, utahne vic tiskaren)
-- pruziny
+- √ elmariofredo pruziny
 
 ## notes with prusa
 
