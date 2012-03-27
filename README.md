@@ -151,6 +151,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
   - phokz will check prices and availability at local glazier shop Valsuba Revnice and will buy 10 pcs if price < 20CZK
   - phokz: price is 59CZK/piece (material, cutting and grinding glass edges), time to delivery is about 3 days
   - phokz have ordered 10 pcs, but others please check availability and prices at your local shop
+  - glass at home, final price was 410CZK which is 41 per piece
 - paska na sklo PET
 - aceton na rozpusteni ABS
 - hnaci sroub
