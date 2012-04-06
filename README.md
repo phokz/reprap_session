@@ -187,3 +187,20 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 * python na posilani gcode prikazu do tiskarny
   - https://github.com/kliment/Printrun
 
+# restults from meetup 12/04/02
+
+## zapojeni motorku
+
+oranzovy, cerny, modry, bily
+
+## misteaks ;)
+
+* zavitova tyc 3 na extruder a k nim pruzinky
+* nebo delsi srouby 3
+* male podlozky
+
+## visual manual
+
+http://garyhodgson.com/reprap/prusa-mendel-visual-instructions/
+http://garyhodgson.com/reprap/wades-geared-extruder-visual-instructions/
+
