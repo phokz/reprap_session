@@ -89,6 +89,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - ang will buy hotbed
 - netmilk will buy extruder parts
 	- unfortunately, this order from XYZ printers will not arrive in time
+	- http://xyzprinters.com/extruders-hot-ends/169-wade-and-arcol-kit-with-hydra.html
 - netmilk will buy belts
 	x T2.5 timing belt 920mm
 	x T2.5 timing belt 900mm
