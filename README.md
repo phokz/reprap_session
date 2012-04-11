@@ -204,3 +204,16 @@ oranzovy, cerny, modry, bily
 http://garyhodgson.com/reprap/prusa-mendel-visual-instructions/
 http://garyhodgson.com/reprap/wades-geared-extruder-visual-instructions/
 
+## printed parts gotchas
+
+some parts are [different](http://reprap.org/wiki/RP_alternatives) from official "stable" version
+
+eg couplings are made by [@nophead](http://hydraraptor.blogspot.com/)
+
+http://www.thingiverse.com/thing:9622
+http://www.reprapturkiye.com/online-store/plastics/48-2/
+
+who is creator of alternative mendel version to prusa mendel
+
+http://reprap.org/wiki/Mendel90
+
