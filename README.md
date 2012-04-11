@@ -217,17 +217,16 @@ http://garyhodgson.com/reprap/wades-geared-extruder-visual-instructions/
 
 ### couplings
 
-some parts are [different](http://reprap.org/wiki/RP_alternatives) from official "stable" version
-
-eg couplings are made by [@nophead](http://hydraraptor.blogspot.com/)
+some parts are [different](http://reprap.org/wiki/RP_alternatives) from official "stable" version,
+eg couplings are made by [@nophead](http://hydraraptor.blogspot.com/),
+who is creator of [alternative mendel version](http://reprap.org/wiki/Mendel90) to prusa mendel
 
 http://www.thingiverse.com/thing:9622
 
 http://www.reprapturkiye.com/online-store/plastics/48-2/
 
-who is creator of alternative mendel version to prusa mendel
+### pulleys
 
-http://reprap.org/wiki/Mendel90
-
+we mounted steel pulleys in wrong direction..
 next time if we won't use steel pulleys, we can [print em](http://www.thingiverse.com/thing:16627)
 
