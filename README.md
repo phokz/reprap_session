@@ -138,7 +138,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 
 - elmariofredo will bring tripod and camera to take some shots
 
-# restults from meetup
+# results from meetup
 
 ## what parts we miss
 
@@ -193,7 +193,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
   rovnou z command line
   - https://github.com/kliment/Printrun
 
-# restults from meetup 12/04/02
+# results from meetup 12/04/02
 
 ## zapojeni motorku
 
@@ -210,6 +210,8 @@ oranzovy, cerny, modry, bily
 http://garyhodgson.com/reprap/prusa-mendel-visual-instructions/
 http://garyhodgson.com/reprap/wades-geared-extruder-visual-instructions/
 
+# building in progress
+
 ## printed parts gotchas
 
 some parts are [different](http://reprap.org/wiki/RP_alternatives) from official "stable" version
@@ -224,5 +226,4 @@ who is creator of alternative mendel version to prusa mendel
 http://reprap.org/wiki/Mendel90
 
 next time if we won't use steel pulleys, we can [print em](http://www.thingiverse.com/thing:16627)
-
 
