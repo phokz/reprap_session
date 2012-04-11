@@ -215,6 +215,8 @@ http://garyhodgson.com/reprap/wades-geared-extruder-visual-instructions/
 
 ## printed parts gotchas
 
+### couplings
+
 some parts are [different](http://reprap.org/wiki/RP_alternatives) from official "stable" version
 
 eg couplings are made by [@nophead](http://hydraraptor.blogspot.com/)
