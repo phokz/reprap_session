@@ -223,6 +223,8 @@ who is creator of [alternative mendel version](http://reprap.org/wiki/Mendel90) 
 
 http://www.thingiverse.com/thing:9622
 
+http://hydraraptor.blogspot.com/2011/06/yet-another-prusa-z-coupling.html
+
 http://www.reprapturkiye.com/online-store/plastics/48-2/
 
 ### pulleys
