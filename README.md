@@ -37,8 +37,12 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 
 ## Basic links
 - [RepRap.org](http://reprap.org/)
+- [prusa mendel sources](https://github.com/prusajr/PrusaMendel)
 - [Josef Prusa](http://josefprusa.cz/)
 - [Článek na ROOT.cz](http://www.root.cz/clanky/3d-tiskarna-reprap-vytisknete-si-treba-bryle/)
+- [cesky tutorial s alternativnim heatbedem](http://jakub.serych.cz/reprap-potrebny-material)
+- [ceske forum](http://forums.reprap.org/read.php?221,69892,107215,quote=1)
+- [assembly wiki](http://reprap.org/wiki/Prusa_Mendel_Assembly)
 
 ## Shopping list
 
@@ -59,6 +63,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
 - sample of ABS
 	- Prusa will bring some
 - sample of PLA
+- [nice eshop from forum](http://reprapworld.com/)
 
 ## Learning
 
@@ -185,6 +190,7 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
   - http://reprap.org/wiki/Skeinforge
 
 * python na posilani gcode prikazu do tiskarny
+  rovnou z command line
   - https://github.com/kliment/Printrun
 
 # restults from meetup 12/04/02
@@ -216,4 +222,7 @@ http://www.reprapturkiye.com/online-store/plastics/48-2/
 who is creator of alternative mendel version to prusa mendel
 
 http://reprap.org/wiki/Mendel90
+
+next time if we won't use steel pulleys, we can [print em](http://www.thingiverse.com/thing:16627)
+
 
