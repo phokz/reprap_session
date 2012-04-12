@@ -150,9 +150,11 @@ Proudly provided by [Virtualmaster](http://www.virtualmaster.cz)
     - order to delivery time from NL is 2 weeks
   - [lm8uu here](http://www.12v.cz/diskont/LM8UU-8mm-Linearni-kulickova-loziska-Bush-Pouzdro) 950CZK per 10pcs
   - [lm8uu on Aukro](http://aukro.cz/1x-linearni-pouzdro-vozik-lm8uu-pr-8-mm-cnc-i2207794767.html) 390CZK per 10 pcs
+  - [cnc.inshop.cz](http://cnc.inshop.cz/nepodeprenetyce/?pageindex=2)
 - hlazenka tvrdochrom na hridele
   - not needed for the moment, but for next machines we should use it
   - check prices
+  - [cnc.inshop.cz](http://cnc.inshop.cz/nepodeprenetyce/brousenatyc8mm%5BS-8%5D?ItemIdx=44)
 - sklo 2mm 20x20 - vicekrat
   - phokz will check prices and availability at local glazier shop Valsuba Revnice and will buy 10 pcs if price < 20CZK
   - phokz: price is 59CZK/piece (material, cutting and grinding glass edges), time to delivery is about 3 days
