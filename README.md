@@ -263,7 +263,9 @@ next time if we won't use steel pulleys, we can [print em](http://www.thingivers
 
 - zmeril jsem odpory pri pokojove teplote
 
+```
 20.9 Cel - pokoj
 110 kOhm - hotend (zeleny kabliky)
 113 kOhm - heatbed (modry kabliky)
+```
 
