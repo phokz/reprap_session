@@ -238,12 +238,12 @@ next time if we won't use steel pulleys, we can [print em](http://www.thingivers
 
 * vycistit sroub
 
-* rozchodit skeinforge (slicer)
+* rozchodit skeinforge == slicer (kvbik)
   - zpomalit?
 
 * zvysit teplotu heatbed
   - test vyparit kapku vody
-  - zvysit napeti?
+  - zvysit napeti? (jejda - mame 10V viz prechodove odpory)
   - teplovodna pasta mezi sklo a desku
 
 * zmerit teplotu hotendu
@@ -257,5 +257,13 @@ next time if we won't use steel pulleys, we can [print em](http://www.thingivers
   - 10A draty 2mm^2
   - aby z nej slo opravdu 12V
 
-* uchodit skeinforge
+## outputs
+
+- pocitacovy zdroj uz asi nzdrojuje..
+
+- zmeril jsem odpory pri pokojove teplote
+
+20.9 Cel - pokoj
+110 kOhm - hotend (zeleny kabliky)
+113 kOhm - heatbed (modry kabliky)
 
