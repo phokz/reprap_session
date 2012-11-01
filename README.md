@@ -234,3 +234,26 @@ http://www.reprapturkiye.com/online-store/plastics/48-2/
 we mounted steel pulleys in wrong direction..
 next time if we won't use steel pulleys, we can [print em](http://www.thingiverse.com/thing:16627)
 
+# results from little meetup 12/11/1
+
+* vycistit sroub
+
+* rozchodit skeinforge (slicer)
+  - zpomalit?
+
+* zvysit teplotu heatbed
+  - test vyparit kapku vody
+  - zvysit napeti?
+  - teplovodna pasta mezi sklo a desku
+
+* zmerit teplotu hotendu
+  - teplovodna pasta (lisak)
+
+* vytvorit penovou desku na izolaci (lisak)
+
+* zmerit odpor termistoru
+
+* prechodove odpory na konektorech zdroje
+  - 10A draty 2mm^2
+  - aby z nej slo opravdu 12V
+
