@@ -257,3 +257,5 @@ next time if we won't use steel pulleys, we can [print em](http://www.thingivers
   - 10A draty 2mm^2
   - aby z nej slo opravdu 12V
 
+* uchodit skeinforge
+
