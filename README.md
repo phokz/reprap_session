@@ -269,3 +269,29 @@ next time if we won't use steel pulleys, we can [print em](http://www.thingivers
 113 kOhm - heatbed (modry kabliky)
 ```
 
+# visit in reprap emergency 12/11/09
+
+@josefprusa visit by @kvbik & @JerryFox
+
+- mame novy pocitacovy zdroj a s nim je napajeni bez problemu - 12V
+  (Corsair CX500)
+
+- pepa nevidel, co je v nasem hotendu za problem, ale potvrdil, ze jde ztuha
+  mrkne nam na to a kdyz nebude vedet, co s tim (a ani @arcol mu neporadi)
+  tak nam da jeho novy hotend (prusa nozzle)
+
+- heatbed snad hreje dost, ale misto obycejne kancelarske pasky ;))
+  tam mame dat PET pasku -> jemne se zdrsni a potre ABS rozpustenem
+  v acetonu, coz kdyz se udela dostatecne, staci cca jednou po deseti
+  tiscich - jde o to, aby se na desce zachytily kousky rozpusteneho
+  ABS a tisteny model se tam lepe chytal - alternativa je nepouzivat
+  PET pasku a ABS v acetonu natirat primo na sklo - ale pred kazdym
+  tiskem
+
+- na slicovani pouzivat http://slic3r.org/ - oproti skeinforge je novejsi,
+  rychleji vyvijeny a autor je porad na IRCu (akorat je to v perlu.. :))
+
+- sprinter (aka firmware do arduina) pouzivame my i @josefprusa z experimental branche
+
+- pry se nam dost hreje kabel, kterym napajime heatbed
+
