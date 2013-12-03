@@ -27,6 +27,8 @@ jak radi pruvodce. Pak uz jen::
 
 a v adresari kde je stl soubor se vytvori gcode soubor.
 
+kvbikuv `nejposlednejsi configurak <https://github.com/kvbik/bordel/blob/master/reprap/slic3r.black.ini>`_.
+
 ovladani tiskarny
 -----------------
 
